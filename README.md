@@ -6,7 +6,7 @@ I have tried to make an Inventory Management System for Stationary Items using P
 This repository contains four files namely Owner file, End user purchase file, Record files and lastly the Sales file.
 
 ### Description about the IMS
-Here, I have used and tried to understand various concepts including File handling, NoSql Databases linke JSON, Data Structures like Dictionary, and Strings in Python Programming Language.
+Here, I have used and tried to understand various concepts including File handling, NoSql Databases like JSON, Data Structures like Dictionary, and Strings in Python Programming Language.
 About files used in this assignment:-
 1) Owner File: It includes Product id, commpany name, price of the product, available quantity and colour. New products can be added to the repository.
 2) End User Purchase file: It includes Product id that you want to purchase, details like, quantity, price, and total Billing amount.
