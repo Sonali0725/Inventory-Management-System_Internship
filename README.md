@@ -1,7 +1,7 @@
 # Skill-India_AI/ML_Internship
 This repository has all the assignments taught and done during the internship.
 
-### Information abou this repository
+### Information about this repository
 I have tried to make an Inventory Management System for Stationary Items using Python Programming.
 This repository contains four files namely Owner file, End user purchase file, Record files and lastly the Sales file.
 
