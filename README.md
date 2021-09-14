@@ -1,5 +1,5 @@
-# Skill-India_AI/ML_Internship
-This repository has all the assignments taught and done during the internship.
+# Inventory Management Assignement
+This repository contains the assignment taught and done during the internship.
 
 ### Information about this repository
 I have tried to make an Inventory Management System for Stationary Items using Python Programming.
